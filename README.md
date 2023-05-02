@@ -32,4 +32,5 @@ Effectively communicate your findings and explain how it relates to each scenari
 2] Effective Communication
 3] Analytics & Insights
 
-Tata Logo
+![image](https://user-images.githubusercontent.com/97459174/235720953-b9e57b93-f12c-49be-8909-5757c5246d0b.png)
+
