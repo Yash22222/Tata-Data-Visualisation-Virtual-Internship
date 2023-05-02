@@ -31,3 +31,5 @@ Effectively communicate your findings and explain how it relates to each scenari
 1] Analysis & Presentation
 2] Effective Communication
 3] Analytics & Insights
+
+Tata Logo
